@@ -10,3 +10,4 @@ function triggerAnimation() {
     }, 1500 * i);
   })
 }
+
